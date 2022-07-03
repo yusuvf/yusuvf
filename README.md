@@ -4,7 +4,7 @@
     name = "Yusuf"
     surname = "Dönmez"
     website = "yusufdonmez.com"
-    interest = "JavaScript, React, React Native"
+    interest = "JavaScript, React.js, Next.js, React Native"
     style = {{ hairstyle: 'curly' }}
 />
 ```
